@@ -31,4 +31,3 @@ No data is sent to a server — a success message is displayed if all fields are
 ## Author 
 [Sruthi Kilimi]
 
-## 📂 Project Structure
